@@ -20,8 +20,6 @@
 - 🤝 Collaborating on: Open-source DevOps, Python automation, and Kubernetes-native tools  
 - 🌱 Currently learning: ArgoCD, Jenkins Clusters, GitOps, Kubernetes, Terraform, Ansible  
 - 💬 Ask me about: Docker, Kubernetes, Python, Nginx Reverse Proxy, and GitOps best practices  
-- 🧃 **Fun fact**: I can troubleshoot CI/CD failures faster than I find my house keys - and my cat judges me every time 🐈💻
-
 ---
 
 ## 📬 Let's Connect
@@ -110,4 +108,3 @@
 
 
 <h3 align="center">🚀 Build. Automate. Repeat. Until it scales like magic. 🔁</h3>
-"""
