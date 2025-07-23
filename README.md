@@ -20,16 +20,6 @@
 - 🤝 Collaborating on: Open-source DevOps, Python automation, and Kubernetes-native tools  
 - 🌱 Currently learning: ArgoCD, Jenkins Clusters, GitOps, Kubernetes, Terraform, Ansible  
 - 💬 Ask me about: Docker, Kubernetes, Python, Nginx Reverse Proxy, and GitOps best practices  
----
-
-## 📬 Let's Connect
-
-- 🔗 My Portfolio: [Portfolio Website](https://tejaswipathak-portfolio.netlify.app/)  
-- 🐙 GitHub: [GitHub](https://github.com/TejPATHAK)  
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/tejaswi-pathak/)  
-- 📨 Email: [tejaswipathak39@gmail.com](mailto:tejaswipathak39@gmail.com)
-
----
 
 ## 🧠 Tech Stack
 
@@ -81,12 +71,12 @@
 
 ---
 
-### 📬 Let's Connect
-- 🔗Portfolio: [Portfolio Website](https://tejaswipathak-portfolio.netlify.app/)
-- 🐙 GitHub: [GitHub](https://github.com/TejPATHAK)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/tejaswi-pathak/)
-- 📧 Email: [Email][tejaswipathak39@gmail.com](mailto:tejaswipathak39@gmail.com)
+## 📬 Let's Connect
 
+- 🔗 My Portfolio: [Portfolio Website](https://tejaswipathak-portfolio.netlify.app/)  
+- 🐙 GitHub: [GitHub](https://github.com/TejPATHAK)  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/tejaswi-pathak/)  
+- 📨 Email: [tejaswipathak39@gmail.com](mailto:tejaswipathak39@gmail.com)
 ---
 
 ### 📺 DevOps Vibes
