@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tejaswi Pathak</h1>
 
 <p align="center">
-🎯 DevOps Enthusiast | 🐧 Linux Lover | ☁️ Cloud Native Explorer | 🚀 Automation Addict  
+<h3>🎯 DevOps Enthusiast | 🐧 Linux Lover | ☁️ Cloud Native Explorer | 🚀 Automation Addict  </h3>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 
 ### 🚀 I'm a DevOps enthusiast transforming complex deployments into seamless automation pipelines!
 
-🧃 **Fun fact**: I can troubleshoot CI/CD failures faster than I find my house keys — and yes, my cat judges my YAML syntax 🐾
+🧃 **Fun fact**: I can troubleshoot CI/CD failures faster than I find my house keys - and yes, my cat judges my YAML syntax 🐾
 
 ---
 
