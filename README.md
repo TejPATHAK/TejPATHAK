@@ -19,8 +19,8 @@
 - 🔧 Working on: Infrastructure automation, scalable backend systems, and CI/CD pipelines  
 - 🤝 Collaborating on: Open-source DevOps, Python automation, and Kubernetes-native tools  
 - 🌱 Currently learning: ArgoCD, Jenkins Clusters, GitOps, Kubernetes, Terraform, Ansible  
-- 💬 Ask me about: Docker, Kubernetes, Python, GitHub Actions, Nginx Reverse Proxy, and GitOps best practices  
-- 🧃 **Fun fact**: I can troubleshoot CI/CD failures faster than I find my house keys — and my cat judges me every time 🐈💻
+- 💬 Ask me about: Docker, Kubernetes, Python, Nginx Reverse Proxy, and GitOps best practices  
+- 🧃 **Fun fact**: I can troubleshoot CI/CD failures faster than I find my house keys - and my cat judges me every time 🐈💻
 
 ---
 
@@ -93,8 +93,13 @@
 
 ### 📺 DevOps Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="270px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="270px" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="270px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3emh5eHF3Y3NmczRjaTB1OXFwN3pycW5mb3Jzd2Z4NjJrd29jeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UVG0BN8TOMKkPOJS6e/giphy.gif" width="270px" />
 </p>
+
 
 ---
 
